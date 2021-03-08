@@ -18,7 +18,7 @@ use the fonts in other ways in the font hierarchy etc. */
   --link-color: green;
   --link-hover-color: blue;
   --color-4: hotpink;
-  --color-5: rgb(63, 47, 80);
+  --color-5: rgb(255, 255, 255);
 
   --primary-font: "Open Sans", sans-serif;
   --secondary-font: "Droid Serif", serif;
