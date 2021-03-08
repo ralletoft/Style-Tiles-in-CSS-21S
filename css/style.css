@@ -16,8 +16,8 @@ use the fonts in other ways in the font hierarchy etc. */
 :root {
   --bg-color: red;
   --link-color: green;
-  --link-hover-color: blue;
-  --color-4: hotpink;
+  --link-hover-color: rgb(42, 42, 68);
+  --color-4: rgb(171, 228, 39);
   --color-5: rgb(88, 231, 22);
 
   --primary-font: "Open Sans", sans-serif;
