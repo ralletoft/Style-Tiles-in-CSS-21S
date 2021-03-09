@@ -19,9 +19,13 @@ use the fonts in other ways in the font hierarchy etc. */
   --link-hover-color: blue;
   --color-4: hotpink;
   --color-5: rgb(118, 106, 129);
+  --color-6: ;
+  --color-7: ;
+  --color-8: ;
+  --color-9: ;
 
-  --primary-font: "Open Sans", sans-serif;
-  --secondary-font: "Droid Serif", serif;
+  --primary-font: omnes-pro, sans-serif;
+  --secondary-font: omnes-pro, sans-serif;
   --main-text-color: #000;
 
   --white-space: 1rem;
@@ -119,15 +123,15 @@ ul li:last-child {
 }
 
 .color-swatch-1 {
-  background-color: var(--bg-color);
+  background-color: #f3b5eb;
 }
 
 .color-swatch-2 {
-  background-color: var(--link-color);
+  background-color: #035d87;
 }
 
 .color-swatch-3 {
-  background-color: var(--link-hover-color);
+  background-color: #696969;
 }
 
 .color-swatch-4 {
@@ -145,11 +149,13 @@ ul li:last-child {
 }
 
 .texture-swatch-1 {
-  background: url(../img/pw_maze_white.png) top left repeat;
+  background: url(/images/158843446_890875481758857_8915218181329520591_n.png)
+    center repeat;
 }
 
 .texture-swatch-2 {
-  background: url(../img/subtle_grunge.png) top left repeat;
+  background: url(/images/159158876_185200189754920_3806060765250461668_n.png)
+    center;
 }
 
 .texture-swatch-1 {
